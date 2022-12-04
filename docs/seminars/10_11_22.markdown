@@ -1,0 +1,52 @@
+---
+layout: page
+# title: Seminars
+permalink: /seminars/10_11_22
+---
+
+<h3><b>Provably-Correct Neurosymbolic Controllers for Autonomous Cyber-Physical Systems</b></h3>
+
+[![IMAGE_ALT](https://img.youtube.com/vi/sIprr3z4HEk/0.jpg)](https://www.youtube.com/watch?v=UmX4kyB2wfg)
+
+Machine learning models are increasingly being incorporated into real-world systems, targeting domains such as robotics, healthcare, and software systems. A key challenge is ensuring that such systems are trustworthy. I will describe two strategies for verifying correctness properties for such systems. The first strategy leverages ideas from statistical verification to provide provable correctness guarantees. In particular, we show how to quantify the uncertainty of any given model in a way that satisfies PAC correctness guarantees, and then leverage these uncertainties to ensure safety. The second strategy is to learn programmatic models that are more amenable to verification. In particular, we show how to learn decision tree control policies, which can then be verified using SMT solvers. I will conclude with ongoing work on preserving correctness guarantees in the face of distribution shift.
+
+__Osbert Bastani__\
+Is an assistant professor at the Department of Computer and Information Science at the University of Pennsylvania. He is broadly interested in techniques for designing trustworthy machine learning systems, focusing on their correctness, programmability, and efficiency. Previously, he completed his Ph.D. in computer science from Stanford and his A.B. in mathematics from Harvard.
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.round {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
+
+<a href="" class="previous" style="float: left;">&laquo; Previous</a>
+<a href="10_18_22" class="next" style="float: right;">Next &raquo;</a>
+  
+</body>
+</html> 

@@ -1,0 +1,51 @@
+---
+layout: page
+permalink: /seminars/11_29_22_1
+---
+
+<h3><b>Building Efficient ML Models for the Edge</b></h3>
+
+[![IMAGE_ALT](https://img.youtube.com/vi/nrOo3ZOt5ys/0.jpg)](https://www.youtube.com/watch?v=nrOo3ZOt5ys)
+
+Pete talks about his new startup, Useful Sensors and how he has jumped the chasm from simple TinyML applications to more complex and useful applications. More importantly, how to build privacy into the edge system’s design - something most edge-ML devices don’t address directly.
+
+__Pete Warden__\
+Pete Warden was a founding member of the TensorFlow team, and technical lead of on-device machine learning infrastructure at Google. He's the author of the O'Reilly TinyML book, teaches embedded ML at Stanford, and founded Useful Sensors, a startup focused on providing AI interfaces for everyday objects.
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.round {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
+
+<a href="11_17_22" class="previous" style="float: left;">&laquo; Previous</a>
+<a href="11_29_22_2" class="next" style="float: right;">Next &raquo;</a>
+  
+</body>
+</html> 

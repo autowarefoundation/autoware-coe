@@ -1,0 +1,53 @@
+---
+layout: page
+# title: Seminars
+permalink: /seminars/10_21_22
+---
+
+<h3><b>Routing with Privacy for drone package delivery systems</b></h3>
+
+[![IMAGE_ALT](https://img.youtube.com/vi/loXO1NXvfWY/0.jpg)](https://www.youtube.com/watch?v=loXO1NXvfWY)
+
+Uncrewed aerial vehicles (UAVs), or drones, are increasingly being used to deliver goods from vendors to customers. To safely conduct these operations at scale, drones are required to broadcast position information as codified in remote identification (remote ID) regulations. However, location broadcast of package delivery drones introduces a privacy risk for customers using these delivery services: Third-party observers may leverage broadcast drone trajectories to link customers with their purchases, potentially resulting in a wide range of privacy risks. 
+We propose a probabilistic definition of privacy risk based on the likelihood of associating a customer to a vendor given a package delivery route. Next, we quantify these risks, enabling drone operators to assess privacy risks when planning delivery routes. We then evaluate the impacts of various factors (e.g., drone capacity) on privacy and consider the trade-offs between privacy and delivery wait times. Finally, we propose heuristics for generating routes with privacy guarantees to avoid exhaustive enumeration of all possible routes and evaluate their performance on several realistic delivery scenarios.
+
+__Max Li__\
+Max is an Assistant Professor of Aerospace Engineering at the University of Michigan, Ann Arbor, with a 0% appointment in Industrial and Operations Engineering. Max received his PhD in Aerospace Engineering from the Massachusetts Institute of Technology in 2021. He earned his MSE in Systems Engineering and BSE in Electrical Engineering and Mathematics, both from the University of Pennsylvania, in 2018. on their correctness, programmability, and efficiency. Previously, he completed his Ph.D. in computer science from Stanford and his A.B. in mathematics from Harvard.
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.round {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
+
+<a href="10_18_22" class="previous" style="float: left;">&laquo; Previous</a>
+<a href="11_17_22" class="next" style="float: right;">Next &raquo;</a>
+  
+</body>
+</html> 

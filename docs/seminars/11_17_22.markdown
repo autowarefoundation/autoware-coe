@@ -1,0 +1,52 @@
+---
+layout: page
+# title: Seminars
+permalink: /seminars/11_17_22
+---
+
+<h3><b>Routing with Privacy for drone package delivery systems</b></h3>
+
+[![IMAGE_ALT](https://img.youtube.com/vi/ZW_c1Oozhsw/0.jpg)](https://www.youtube.com/watch?v=ZW_c1Oozhsw)
+
+Guest Lecture in UPenn's ESE 3600 TinyML Tiny Machine Learning course Machine learning on tiny IoT devices based on microcontroller units (MCU) is appealing but challenging: the memory of microcontrollers is 2-3 orders of magnitude smaller even than mobile phones. I'll present the MCUNet project, a framework that jointly designs the efficient neural architecture (TinyNAS) and the lightweight inference engine (TinyEngine), enabling ImageNet-scale inference on microcontrollers. Beyond inference, our latest work also enables fine-tuning the model and learning on the edge by quantized training and sparse backpropagation, requiring 1000x less memory than Pytorch and Tensorflow. Our study suggests that the era of always-on tiny machine learning on IoT devices has arrived. 
+
+__Song Han__\
+Song Han is an associate professor at MIT EECS. He received his PhD degree from Stanford University. He proposed "deep compression" technique that's widely used by industry for efficient AI computing, and "Efficient Inference Engine" that first brought weight sparsity to neural network accelerators. His team's work on hardware-aware neural architecture search (once-for-all network, MCUNet) brought deep learning to IoT devices that have only 256KB memory, and enables learning on the edge. Song received the NSF CAREER Award for "efficient algorithms and hardware for accelerated machine learning" and was named "35 Innovators Under 35" by MIT Technology Review.
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.round {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
+
+<a href="10_21_22" class="previous" style="float: left;">&laquo; Previous</a>
+<a href="11_29_22_1" class="next" style="float: right;">Next &raquo;</a>
+  
+</body>
+</html> 

@@ -1,2 +1,2 @@
-# Autoware CoE
-Session III Content.
+# Session III
+TBD

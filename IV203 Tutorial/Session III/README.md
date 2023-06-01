@@ -1,2 +1,0 @@
-# Session III
-TBD
